@@ -5,6 +5,15 @@ Classes for generating Sepa XML files
 
 usage
 ============
+```php
+<?php
+
+// This is normally handled by my autoloader, but for
+// example sake lets include here..
+require_once('classes/Sepa/Exeption.php');
+require_once('classes/Sepa/Base.php');
+require_once('classes/Sepa/DirectDebit.php');
+require_once('classes/Sepa/DirectDebit/Transaction.php');
 
 $SepaFile = new Sepa_DirectDebit();
 
@@ -62,3 +71,4 @@ $SimpleXml = new SimpleXmlElement($SepaFile);
 $dom = dom_import_simplexml($SimpleXml)->ownerDocument;
 $dom->formatOutput = true;
 echo $dom->saveXML();
+```
