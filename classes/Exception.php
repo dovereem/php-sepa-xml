@@ -3,8 +3,8 @@
 /**
  * Sepa Exception
  *
- * @author  Damien Overeem <damien@overeem.org>
- * @package Sohosted.com
+ * @author  Damien Overeem ( SoHosted B.V. - www.sohosted.com )
+ * @package Sepa PHP XML tools
  *
  * @version $Id$
  */

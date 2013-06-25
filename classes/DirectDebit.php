@@ -22,7 +22,7 @@
  * You should have received a copy of the GNU Lesser General Public License
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  *
- * @author      Damien Overeem ( SoHosted B.V. )
+ * @author      Damien Overeem ( SoHosted B.V. - www.sohosted.com )
  * @package     Sepa PHP XML tools
  * @version     0.1-alpha
  *

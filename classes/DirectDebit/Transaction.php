@@ -2,8 +2,8 @@
 /**
  * Transaction part of the DirectDebit XML structure
  *
- * @author  Damien Overeem <damien@overeem.org>
- * @package Sohosted.com
+ * @author  Damien Overeem Sepa PHP XML tools
+ * @package Sepa PHP XML tools
  *
  * @version $Id$
  */

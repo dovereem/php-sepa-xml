@@ -2,7 +2,7 @@
 /**
  * Base class for SEPA files
  *
- * @author  Damien Overeem <damien@overeem.org>
+ * @author  Damien Overeem ( SoHosted B.V. - www.sohosted.com )
  * @package Sohosted.com
  *
  * @version $Id$
