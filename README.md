@@ -1,5 +1,3 @@
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/77a16b2a3b6a54e7e303f64e2337b4b6 "githalytics.com")](http://githalytics.com/dovereem/php-sepa-xml)
-
 php-sepa-xml
 ============
 
